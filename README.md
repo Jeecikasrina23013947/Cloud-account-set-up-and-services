@@ -1,8 +1,8 @@
 
 # EX NO 1: Cloud-account-set-up-and-services
 ```
-Name : Aakashraj M
-Reg.No : 212222100002
+Name : JEECIKASRINA M
+Reg.No : 212223100015
 ```
 
 ## Aim:
